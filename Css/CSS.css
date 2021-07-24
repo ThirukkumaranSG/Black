@@ -1,0 +1,508 @@
+body {
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.con-color {
+  position: relative;
+  background-color: black;
+  height: 400px;
+  width: 1511px;
+  bottom: 8px;
+  right: 8px;
+  border: 4px solid black;
+  outline-color: black;
+}
+
+.logo {
+  position: relative;
+  width: 80px;
+  bottom: 393px;
+  left: 45px;
+}
+
+.home {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  bottom: 423px;
+  left: 75px;
+}
+
+.home:hover {
+  color: blue;
+}
+
+.pr {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  bottom: 423px;
+  left: 90px;
+}
+
+.pr:hover {
+  color: blue;
+}
+
+.mu {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  bottom: 423px;
+  left: 105px;
+}
+
+.mu:hover {
+  color: blue;
+}
+
+.or {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  bottom: 423px;
+  left: 125px;
+}
+
+.or:hover {
+  color: blue;
+}
+
+.ab {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  bottom: 423px;
+  left: 135px;
+}
+
+.ab:hover {
+  color: blue;
+}
+
+.co {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  bottom: 423px;
+  left: 145px;
+}
+
+.co:hover {
+  color: blue;
+}
+
+.su {
+  color: white;
+  position: relative;
+  text-decoration: none;
+  bottom: 423px;
+  left: 160px;
+}
+
+.su:hover {
+  color: blue;
+}
+
+.slo {
+  color: #FFFFFF;
+  position: relative;
+  bottom: 390px;
+  left: 161px;
+}
+
+.slo-1 {
+  color: #FFFFFF;
+  position: relative;
+  bottom: 410px;
+  left: 235px;
+}
+
+.line-3 {
+  color: #FFFFFF;
+  position: relative;
+  bottom: 410px;
+  left: 161px;
+}
+
+.con-btn {
+  color: white;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  border: 2px solid white;
+  outline-color: white;
+  height: 40px;
+  width: 170px;
+  position: relative;
+  background-color: black;
+  bottom: 650px;
+  left: 161px;
+}
+
+.con-btn:hover {
+  background-color: White;
+  color: Black;
+}
+
+.web {
+  position: relative;
+  width: 540px;
+  bottom: 637px;
+  left: 714px;
+}
+
+.con-btn-1 {
+  color: white;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  border: 2px solid white;
+  outline-color: #CD113B;
+  height: 40px;
+  width: 170px;
+  position: relative;
+  background-color: black;
+  bottom: 650px;
+  right: 355px;
+}
+
+.con-btn-1:hover {
+  background-color: White;
+  color: Black;
+}
+
+.hel {
+  color: Black;
+  text-align: justify;
+  position: relative;
+  font-size: 35px;
+  bottom: 500px;
+  left: 643px;
+}
+
+#tick {
+  color: Black;
+  position: relative;
+  bottom: 385px;
+  left: 666px;
+}
+
+.m {
+  color: Black;
+  position: relative;
+  left: 663px;
+  bottom: 400px;
+  font-size: 32px;
+}
+
+.po {
+  color: Black;
+  position: relative;
+  left: 380px;
+  bottom: 395px;
+  font-size: 26px;
+}
+
+.b-color {
+  position: relative;
+  background-color: black;
+  height: 390px;
+  width: 1511px;
+  top: 430px;
+  right: 8px;
+  border: 4px solid black;
+  outline-color: black;
+}
+
+.lo {
+  font-size: 32px;
+  color: black;
+  position: relative;
+  bottom: 200px;
+  left: 638px;
+}
+
+.con {
+  font-size: 32px;
+  color: Black;
+  position: relative;
+  bottom: 195px;
+  left: 555px;
+}
+
+.con-btn-2 {
+  position: relative;
+  color: white;
+  font-size: 20px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  border: 2px solid white;
+  outline-color: white;
+  height: 40px;
+  width: 170px;
+  position: relative;
+  background-color: black;
+  left: 665px;
+  bottom: 190px;
+}
+
+.con-btn-2:hover {
+  color: black;
+  background-color: white;
+  border: 2px solid black;
+  outline-color: black;
+}
+
+.f-color {
+  position: relative;
+  background-color: white;
+  height: 400px;
+  width: 1511px;
+  top: 1px;
+  right: 6px;
+  border: 3px solid Black;
+  outline-color: black;
+  top: 520px;
+}
+
+.f-lo {
+  position: relative;
+  width: 150px;
+  left: 679px;
+  bottom: 0;
+}
+
+.li {
+  position: relative;
+  border-color: black;
+  bottom: 8px;
+}
+
+.f-bl {
+  position: relative;
+  font-size: 30px;
+  color: black;
+  left: 150px;
+  top: 7px;
+}
+
+.f-pl {
+  position: relative;
+  font-size: 25px;
+  color: black;
+  left: 80px;
+}
+
+.vl {
+  position: relative;
+  border-left: 1px solid black;
+  height: 150px;
+  bottom: 160px;
+  left: 500px;
+}
+
+.f-ab {
+  text-decoration: none;
+  position: relative;
+  font-size: 23px;
+  color: black;
+  left: 540px;
+  bottom: 295px;
+}
+
+.f-mu {
+  text-decoration: none;
+  position: relative;
+  font-size: 23px;
+  color: black;
+  left: 540px;
+  bottom: 305px;
+}
+
+.f-jo {
+  text-decoration: none;
+  position: relative;
+  font-size: 23px;
+  color: black;
+  left: 540px;
+  bottom: 315px;
+}
+
+.vl-1 {
+  position: relative;
+  border-left: 1px solid black;
+  height: 150px;
+  bottom: 159px;
+  left: 100px;
+}
+
+.f-te {
+  text-decoration: none;
+  position: relative;
+  font-size: 23px;
+  color: black;
+  left: 675px;
+  bottom: 610px;
+}
+
+.f-pr {
+  text-decoration: none;
+  position: relative;
+  font-size: 23px;
+  color: black;
+  left: 678px;
+  bottom: 618px;
+}
+
+.f-co {
+  text-decoration: none;
+  position: relative;
+  font-size: 23px;
+  color: black;
+  left: 679px;
+  bottom: 626px;
+}
+
+.vl-2 {
+  position: relative;
+  border-left: 1px solid black;
+  height: 150px;
+  bottom: 161px;
+  left: 215px;
+}
+
+.f-lc {
+  position: relative;
+  font-size: 30px;
+  left: 320px;
+  bottom: 330px;
+}
+
+.f-gm {
+  text-decoration: none;
+  position: relative;
+  font-size: 23px;
+  color: black;
+  left: 270px;
+  bottom: 340px;
+}
+
+.f-in {
+  position: relative;
+  width: 30px;
+  bottom: 435px;
+  left: 280px;
+}
+
+.f-fb {
+  position: relative;
+  width: 29px;
+  bottom: 435.2px;
+  left: 285px;
+}
+
+.f-tw {
+  position: relative;
+  width: 29px;
+  bottom: 435px;
+  left: 290px;
+}
+
+.f-yt {
+  position: relative;
+  width: 30px;
+  bottom: 435px;
+  left: 295px;
+}
+
+.f-li {
+  position: relative;
+  width: 30px;
+  bottom: 435px;
+  left: 300px;
+}
+
+.mus-pi {
+  position: relative;
+  width: 120px;
+  bottom: 1220px;
+  right: 155px;
+}
+
+.a-tim {
+  font-size: 26px;
+  position: relative;
+  bottom: 1160px;
+  right: 300px;
+}
+.my {
+  position: relative;
+  bottom: 1430px;
+  right: 42px;
+  font-size: 32px;
+}
+
+.f-ri {
+  position: relative;
+  font-size: 26px;
+  right: 130px;
+  bottom: 670px;
+}
+
+.vl-3 {
+  position: relative;
+  border-left: 1px solid black;
+  height: 150px;
+  bottom: 973px;
+  left: 563px;
+}
+
+.btn {
+  background: #ff0000;
+  background-image: -webkit-linear-gradient(top, #ff0000, #ff0000);
+  background-image: -moz-linear-gradient(top, #ff0000, #ff0000);
+  background-image: -ms-linear-gradient(top, #ff0000, #ff0000);
+  background-image: -o-linear-gradient(top, #ff0000, #ff0000);
+  background-image: linear-gradient(to bottom, #ff0000, #ff0000);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Dosis', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 13px 17px 13px 20px;
+  text-decoration: none;
+  width: 5rem;
+  position: relative;
+  bottom: 1688px;
+  left: 1278px;
+}
+
+.btn:hover {
+  background: #d92b2b;
+  background-image: -webkit-linear-gradient(top, #d92b2b, #d92b2b);
+  background-image: -moz-linear-gradient(top, #d92b2b, #d92b2b);
+  background-image: -ms-linear-gradient(top, #d92b2b, #d92b2b);
+  background-image: -o-linear-gradient(top, #d92b2b, #d92b2b);
+  background-image: linear-gradient(to bottom, #d92b2b, #d92b2b);
+  text-decoration: none;
+}
+
+.vl-4 {
+  position: relative;
+  border-left: 1px solid black;
+  height: 150px;
+  bottom: 1769px;
+  left: 50px;
+}
+
+.vl-5 {
+  position: relative;
+  border-left: 1px solid black;
+  height: 150px;
+  bottom: 1929px;
+  left: 1405px;
+}
